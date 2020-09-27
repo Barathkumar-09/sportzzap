@@ -1,10 +1,9 @@
-# sportzzap
 <!DOCTYPE html>
 <html>
    <head>
       <title>Sportzzap home </title>
-      <link rel="stylesheet" href="bootstrap.min.css">
-      <link rel="stylesheet" href="style.css">  
+      <link rel="stylesheet" href="css/bootstrap.min.css">
+      <link rel="stylesheet" href="css/style.css">  
    </head>
    <body>
       <div id="header" class="header">
@@ -93,7 +92,7 @@
                </div>
                <div class="col-md-6 offset-md-1">
                   <divv class="full text_align_center">
-                     <img class="img-responsive" src="imgs/Book.jpeg" alt="#" />
+                     <img class="img-responsive" src="imgs/about.jpeg" alt="#" />
                   </div>
                </div>
             </div>
@@ -139,7 +138,7 @@
                   <h3 class="blog_head">FUTSAL</h3>
                </div>
                <div class="col-md-4 service_blog">
-                  <img class="margin_top_30 img-responsive" src="imgs/crickwar.jpg" alt="#" />
+                  <img class="margin_top_30 img-responsive" src="imgs/crickwar.jpeg" alt="#" />
                   <h3 class="blog_head">Crick war </h3>
                </div>
                <div class="col-md-4 service_blog">
@@ -152,7 +151,7 @@
                </div>
                <div class="col-md-4 service_blog">
                   <img class="margin_top_30 img-responsive" src="imgs/o.jpg" alt="#" />
-                  <h3 class="blog_head"> Gaming Online</h3>
+                  <h3 class="blog_head"> E-sports</h3>
                </div>
             </div>
          </div>
@@ -160,8 +159,8 @@
       <div class="copyright text-center">
          <p> © Reserved 2020  Design by <a href="https://www.linkedin.com/in/barath-kumar-b-567a72168">B.Barath kumar</a></p>
       </div>
-     <script src="jquery-3.3.1.min.js"></script>
-     <script src="bootstrap.min.js"></script>
+     <script src="js/jquery-3.3.1.min.js"></script>
+     <script src="js/bootstrap.min.js"></script>
       <script>
          $(function () {
              
